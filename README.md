@@ -1,6 +1,6 @@
-# 原神角色分布
+# 崩坏：星穹铁道角色分布
 
-原神角色按元素、武器的分布情况。
+崩坏：星穹铁道角色按元素、命途的分布情况。
 
 ## 本地开发
 
@@ -20,13 +20,7 @@ npm run predev
 编辑 `src/data/characters.ts`，格式如下：
 
 ```js
-{
-    name: '雷电将军',
-    rank: 5,  # 星级
-    element: '雷',
-    path: '长柄武器',
-    image: 'characters/雷电将军.avif',
-}
+{ name: '黄泉', element: '雷', path: '虚无', rank: 5, image: '黄泉.avif' }
 ```
 
 图像放到 `public/images/characters/`，必须使用`.avif`格式。
