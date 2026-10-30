@@ -95,154 +95,154 @@ const CHARACTERS: CharacterTableData = {
   ],
   characters: [
     // 1.0
-    { name: '姬子', element: '火', path: '智识', rank: 5, image: '姬子.png' },
-    { name: '瓦尔特', element: '虚数', path: '虚无', rank: 5, image: '瓦尔特.png' },
-    { name: '布洛妮娅', element: '风', path: '同谐', rank: 5, image: '布洛妮娅.png' },
-    { name: '杰帕德', element: '冰', path: '存护', rank: 5, image: '杰帕德.png' },
-    { name: '克拉拉', element: '物理', path: '毁灭', rank: 5, image: '克拉拉.png' },
-    { name: '彦卿', element: '冰', path: '巡猎', rank: 5, image: '彦卿.png' },
-    { name: '白露', element: '雷', path: '丰饶', rank: 5, image: '白露.png' },
-    { name: '三月七', element: '冰', path: '存护', rank: 4, image: '三月七.png' },
-    { name: '丹恒', element: '风', path: '巡猎', rank: 4, image: '丹恒.png' },
-    { name: '艾丝妲', element: '火', path: '同谐', rank: 4, image: '艾丝妲.png' },
-    { name: '阿兰', element: '雷', path: '毁灭', rank: 4, image: '阿兰.png' },
-    { name: '黑塔', element: '冰', path: '智识', rank: 4, image: '黑塔.png' },
-    { name: '娜塔莎', element: '物理', path: '丰饶', rank: 4, image: '娜塔莎.png' },
-    { name: '希露瓦', element: '雷', path: '智识', rank: 4, image: '希露瓦.png' },
-    { name: '佩拉', element: '冰', path: '虚无', rank: 4, image: '佩拉.png' },
-    { name: '桑博', element: '风', path: '虚无', rank: 4, image: '桑博.png' },
-    { name: '虎克', element: '火', path: '毁灭', rank: 4, image: '虎克.png' },
-    { name: '青雀', element: '量子', path: '智识', rank: 4, image: '青雀.png' },
-    { name: '素裳', element: '物理', path: '巡猎', rank: 4, image: '素裳.png' },
-    { name: '停云', element: '雷', path: '同谐', rank: 4, image: '停云.png' },
-    { name: '希儿', element: '量子', path: '巡猎', rank: 5, image: '希儿.png' },
-    { name: '景元', element: '雷', path: '智识', rank: 5, image: '景元.png' },
+    { name: '姬子', element: '火', path: '智识', rank: 5, image: '姬子.avif' },
+    { name: '瓦尔特', element: '虚数', path: '虚无', rank: 5, image: '瓦尔特.avif' },
+    { name: '布洛妮娅', element: '风', path: '同谐', rank: 5, image: '布洛妮娅.avif' },
+    { name: '杰帕德', element: '冰', path: '存护', rank: 5, image: '杰帕德.avif' },
+    { name: '克拉拉', element: '物理', path: '毁灭', rank: 5, image: '克拉拉.avif' },
+    { name: '彦卿', element: '冰', path: '巡猎', rank: 5, image: '彦卿.avif' },
+    { name: '白露', element: '雷', path: '丰饶', rank: 5, image: '白露.avif' },
+    { name: '三月七', element: '冰', path: '存护', rank: 4, image: '三月七.avif' },
+    { name: '丹恒', element: '风', path: '巡猎', rank: 4, image: '丹恒.avif' },
+    { name: '艾丝妲', element: '火', path: '同谐', rank: 4, image: '艾丝妲.avif' },
+    { name: '阿兰', element: '雷', path: '毁灭', rank: 4, image: '阿兰.avif' },
+    { name: '黑塔', element: '冰', path: '智识', rank: 4, image: '黑塔.avif' },
+    { name: '娜塔莎', element: '物理', path: '丰饶', rank: 4, image: '娜塔莎.avif' },
+    { name: '希露瓦', element: '雷', path: '智识', rank: 4, image: '希露瓦.avif' },
+    { name: '佩拉', element: '冰', path: '虚无', rank: 4, image: '佩拉.avif' },
+    { name: '桑博', element: '风', path: '虚无', rank: 4, image: '桑博.avif' },
+    { name: '虎克', element: '火', path: '毁灭', rank: 4, image: '虎克.avif' },
+    { name: '青雀', element: '量子', path: '智识', rank: 4, image: '青雀.avif' },
+    { name: '素裳', element: '物理', path: '巡猎', rank: 4, image: '素裳.avif' },
+    { name: '停云', element: '雷', path: '同谐', rank: 4, image: '停云.avif' },
+    { name: '希儿', element: '量子', path: '巡猎', rank: 5, image: '希儿.avif' },
+    { name: '景元', element: '雷', path: '智识', rank: 5, image: '景元.avif' },
 
     //  1.1
-    { name: '银狼', element: '量子', path: '虚无', rank: 5, image: '银狼.png' },
-    { name: '罗刹', element: '虚数', path: '丰饶', rank: 5, image: '罗刹.png' },
-    { name: '驭空', element: '虚数', path: '同谐', rank: 4, image: '驭空.png' },
+    { name: '银狼', element: '量子', path: '虚无', rank: 5, image: '银狼.avif' },
+    { name: '罗刹', element: '虚数', path: '丰饶', rank: 5, image: '罗刹.avif' },
+    { name: '驭空', element: '虚数', path: '同谐', rank: 4, image: '驭空.avif' },
 
     //  1.2
-    { name: '刃', element: '风', path: '毁灭', rank: 5, image: '刃.png' },
-    { name: '卡芙卡', element: '雷', path: '虚无', rank: 5, image: '卡芙卡.png' },
-    { name: '卢卡', element: '物理', path: '虚无', rank: 4, image: '卢卡.png' },
+    { name: '刃', element: '风', path: '毁灭', rank: 5, image: '刃.avif' },
+    { name: '卡芙卡', element: '雷', path: '虚无', rank: 5, image: '卡芙卡.avif' },
+    { name: '卢卡', element: '物理', path: '虚无', rank: 4, image: '卢卡.avif' },
 
     //  1.3
-    { name: '丹恒•饮月', element: '虚数', path: '毁灭', rank: 5, image: '丹恒•饮月.png' },
-    { name: '符玄', element: '量子', path: '存护', rank: 5, image: '符玄.png' },
-    { name: '玲可', element: '量子', path: '丰饶', rank: 4, image: '玲可.png' },
+    { name: '丹恒•饮月', element: '虚数', path: '毁灭', rank: 5, image: '丹恒•饮月.avif' },
+    { name: '符玄', element: '量子', path: '存护', rank: 5, image: '符玄.avif' },
+    { name: '玲可', element: '量子', path: '丰饶', rank: 4, image: '玲可.avif' },
 
     //  1.4
-    { name: '镜流', element: '冰', path: '毁灭', rank: 5, image: '镜流.png' },
-    { name: '托帕&账账', element: '火', path: '巡猎', rank: 5, image: '托帕&账账.png' },
-    { name: '桂乃芬', element: '火', path: '虚无', rank: 4, image: '桂乃芬.png' },
+    { name: '镜流', element: '冰', path: '毁灭', rank: 5, image: '镜流.avif' },
+    { name: '托帕&账账', element: '火', path: '巡猎', rank: 5, image: '托帕&账账.avif' },
+    { name: '桂乃芬', element: '火', path: '虚无', rank: 4, image: '桂乃芬.avif' },
 
     //  1.5
-    { name: '藿藿', element: '风', path: '丰饶', rank: 5, image: '藿藿.png' },
-    { name: '银枝', element: '物理', path: '智识', rank: 5, image: '银枝.png' },
-    { name: '寒鸦', element: '物理', path: '同谐', rank: 4, image: '寒鸦.png' },
+    { name: '藿藿', element: '风', path: '丰饶', rank: 5, image: '藿藿.avif' },
+    { name: '银枝', element: '物理', path: '智识', rank: 5, image: '银枝.avif' },
+    { name: '寒鸦', element: '物理', path: '同谐', rank: 4, image: '寒鸦.avif' },
 
     //  1.6
-    { name: '阮•梅', element: '冰', path: '同谐', rank: 5, image: '阮•梅.png' },
-    { name: '雪衣', element: '量子', path: '毁灭', rank: 4, image: '雪衣.png' },
-    { name: '真理医生', element: '虚数', path: '巡猎', rank: 5, image: '真理医生.png' },
+    { name: '阮•梅', element: '冰', path: '同谐', rank: 5, image: '阮•梅.avif' },
+    { name: '雪衣', element: '量子', path: '毁灭', rank: 4, image: '雪衣.avif' },
+    { name: '真理医生', element: '虚数', path: '巡猎', rank: 5, image: '真理医生.avif' },
 
     //  2.0
-    { name: '黑天鹅', element: '风', path: '虚无', rank: 5, image: '黑天鹅.png' },
-    { name: '米沙', element: '冰', path: '毁灭', rank: 4, image: '米沙.png' },
-    { name: '花火', element: '量子', path: '同谐', rank: 5, image: '花火.png' },
+    { name: '黑天鹅', element: '风', path: '虚无', rank: 5, image: '黑天鹅.avif' },
+    { name: '米沙', element: '冰', path: '毁灭', rank: 4, image: '米沙.avif' },
+    { name: '花火', element: '量子', path: '同谐', rank: 5, image: '花火.avif' },
 
     //  2.1
-    { name: '黄泉', element: '雷', path: '虚无', rank: 5, image: '黄泉.png' },
-    { name: '加拉赫', element: '火', path: '丰饶', rank: 4, image: '加拉赫.png' },
-    { name: '砂金', element: '虚数', path: '存护', rank: 5, image: '砂金.png' },
+    { name: '黄泉', element: '雷', path: '虚无', rank: 5, image: '黄泉.avif' },
+    { name: '加拉赫', element: '火', path: '丰饶', rank: 4, image: '加拉赫.avif' },
+    { name: '砂金', element: '虚数', path: '存护', rank: 5, image: '砂金.avif' },
 
     //  2.2
-    { name: '知更鸟', element: '物理', path: '同谐', rank: 5, image: '知更鸟.png' },
-    { name: '波提欧', element: '物理', path: '巡猎', rank: 5, image: '波提欧.png' },
+    { name: '知更鸟', element: '物理', path: '同谐', rank: 5, image: '知更鸟.avif' },
+    { name: '波提欧', element: '物理', path: '巡猎', rank: 5, image: '波提欧.avif' },
 
     //  2.3
-    { name: '流萤', element: '火', path: '毁灭', rank: 5, image: '流萤.png' },
-    { name: '翡翠', element: '量子', path: '智识', rank: 5, image: '翡翠.png' },
+    { name: '流萤', element: '火', path: '毁灭', rank: 5, image: '流萤.avif' },
+    { name: '翡翠', element: '量子', path: '智识', rank: 5, image: '翡翠.avif' },
 
     //  2.4
-    { name: '云璃', element: '物理', path: '毁灭', rank: 5, image: '云璃.png' },
-    { name: '三月七•巡猎', element: '虚数', path: '巡猎', rank: 4, image: '三月七•巡猎.png' },
-    { name: '椒丘', element: '火', path: '虚无', rank: 5, image: '椒丘.png' },
+    { name: '云璃', element: '物理', path: '毁灭', rank: 5, image: '云璃.avif' },
+    { name: '三月七•巡猎', element: '虚数', path: '巡猎', rank: 4, image: '三月七•巡猎.avif' },
+    { name: '椒丘', element: '火', path: '虚无', rank: 5, image: '椒丘.avif' },
 
     //  2.5
-    { name: '飞霄', element: '风', path: '巡猎', rank: 5, image: '飞霄.png' },
-    { name: '貊泽', element: '雷', path: '巡猎', rank: 4, image: '貊泽.png' },
-    { name: '灵砂', element: '火', path: '丰饶', rank: 5, image: '灵砂.png' },
+    { name: '飞霄', element: '风', path: '巡猎', rank: 5, image: '飞霄.avif' },
+    { name: '貊泽', element: '雷', path: '巡猎', rank: 4, image: '貊泽.avif' },
+    { name: '灵砂', element: '火', path: '丰饶', rank: 5, image: '灵砂.avif' },
 
     //  2.6
-    { name: '乱破', element: '虚数', path: '智识', rank: 5, image: '乱破.png' },
+    { name: '乱破', element: '虚数', path: '智识', rank: 5, image: '乱破.avif' },
 
     //  2.7
-    { name: '星期日', element: '虚数', path: '同谐', rank: 5, image: '星期日.png' },
-    { name: '忘归人', element: '火', path: '虚无', rank: 5, image: '忘归人.png' },
+    { name: '星期日', element: '虚数', path: '同谐', rank: 5, image: '星期日.avif' },
+    { name: '忘归人', element: '火', path: '虚无', rank: 5, image: '忘归人.avif' },
 
     //  3.0
-    { name: '大黑塔', element: '冰', path: '智识', rank: 5, image: '大黑塔.png' },
-    { name: '阿格莱雅', element: '雷', path: '记忆', rank: 5, image: '阿格莱雅.png' },
+    { name: '大黑塔', element: '冰', path: '智识', rank: 5, image: '大黑塔.avif' },
+    { name: '阿格莱雅', element: '雷', path: '记忆', rank: 5, image: '阿格莱雅.avif' },
 
     //  3.1
-    { name: '缇宝', element: '量子', path: '同谐', rank: 5, image: '缇宝.png' },
-    { name: '万敌', element: '虚数', path: '毁灭', rank: 5, image: '万敌.png' },
+    { name: '缇宝', element: '量子', path: '同谐', rank: 5, image: '缇宝.avif' },
+    { name: '万敌', element: '虚数', path: '毁灭', rank: 5, image: '万敌.avif' },
 
     //  3.2
-    { name: '遐蝶', element: '量子', path: '记忆', rank: 5, image: '遐蝶.png' },
-    { name: '那刻夏', element: '风', path: '智识', rank: 5, image: '那刻夏.png' },
+    { name: '遐蝶', element: '量子', path: '记忆', rank: 5, image: '遐蝶.avif' },
+    { name: '那刻夏', element: '风', path: '智识', rank: 5, image: '那刻夏.avif' },
 
     //  3.3
-    { name: '风堇', element: '风', path: '记忆', rank: 5, image: '风堇.png' },
-    { name: '赛飞儿', element: '量子', path: '虚无', rank: 5, image: '赛飞儿.png' },
+    { name: '风堇', element: '风', path: '记忆', rank: 5, image: '风堇.avif' },
+    { name: '赛飞儿', element: '量子', path: '虚无', rank: 5, image: '赛飞儿.avif' },
 
     //  3.4
-    { name: '白厄', element: '物理', path: '毁灭', rank: 5, image: '白厄.png' },
-    { name: 'Saber', element: '风', path: '毁灭', rank: 5, image: 'Saber.png' },
-    { name: 'Archer', element: '量子', path: '巡猎', rank: 5, image: 'Archer.png' },
+    { name: '白厄', element: '物理', path: '毁灭', rank: 5, image: '白厄.avif' },
+    { name: 'Saber', element: '风', path: '毁灭', rank: 5, image: 'Saber.avif' },
+    { name: 'Archer', element: '量子', path: '巡猎', rank: 5, image: 'Archer.avif' },
 
     //  3.5
-    { name: '海瑟音', element: '物理', path: '虚无', rank: 5, image: '海瑟音.png' },
-    { name: '刻律德菈', element: '风', path: '同谐', rank: 5, image: '刻律德菈.png' },
+    { name: '海瑟音', element: '物理', path: '虚无', rank: 5, image: '海瑟音.avif' },
+    { name: '刻律德菈', element: '风', path: '同谐', rank: 5, image: '刻律德菈.avif' },
 
     //  3.6
-    { name: '长夜月', element: '冰', path: '记忆', rank: 5, image: '长夜月.png' },
-    { name: '丹恒•腾荒', element: '物理', path: '存护', rank: 5, image: '丹恒•腾荒.png' },
+    { name: '长夜月', element: '冰', path: '记忆', rank: 5, image: '长夜月.avif' },
+    { name: '丹恒•腾荒', element: '物理', path: '存护', rank: 5, image: '丹恒•腾荒.avif' },
 
     //  3.7
-    { name: '昔涟', element: '冰', path: '记忆', rank: 5, image: '昔涟.png' },
+    { name: '昔涟', element: '冰', path: '记忆', rank: 5, image: '昔涟.avif' },
 
     //  3.8
-    { name: '大丽花', element: '火', path: '虚无', rank: 5, image: '大丽花.png' },
+    { name: '大丽花', element: '火', path: '虚无', rank: 5, image: '大丽花.avif' },
 
     //  4.0
-    { name: '爻光', element: '物理', path: '欢愉', rank: 5, image: '爻光.png' },
-    { name: '火花', element: '火', path: '欢愉', rank: 5, image: '火花.png' },
+    { name: '爻光', element: '物理', path: '欢愉', rank: 5, image: '爻光.avif' },
+    { name: '火花', element: '火', path: '欢愉', rank: 5, image: '火花.avif' },
 
     //  4.1
-    { name: '不死途', element: '雷', path: '巡猎', rank: 5, image: '不死途.png' },
+    { name: '不死途', element: '雷', path: '巡猎', rank: 5, image: '不死途.avif' },
 
     //  4.2
-    { name: '银狼LV.999', element: '虚数', path: '欢愉', rank: 5, image: '银狼LV.999.png' },
+    { name: '银狼LV.999', element: '虚数', path: '欢愉', rank: 5, image: '银狼LV.999.avif' },
 
     //  4.3
-    { name: '绯英', element: '物理', path: '欢愉', rank: 5, image: '绯英.png' },
-    { name: '千冶•刃', element: '火', path: '虚无', rank: 5, image: '千冶•刃.png' },
+    { name: '绯英', element: '物理', path: '欢愉', rank: 5, image: '绯英.avif' },
+    { name: '千冶•刃', element: '火', path: '虚无', rank: 5, image: '千冶•刃.avif' },
 
     //  4.4
-    { name: '姬子•启行', element: '火', path: '智识', rank: 5, image: '姬子•启行.png' },
-    { name: '吉尔伽美什', element: '雷', path: '毁灭', rank: 5, image: '吉尔伽美什.png' },
-    { name: '远坂凛', element: '量子', path: '智识', rank: 5, image: '远坂凛.png' },
+    { name: '姬子•启行', element: '火', path: '智识', rank: 5, image: '姬子•启行.avif' },
+    { name: '吉尔伽美什', element: '雷', path: '毁灭', rank: 5, image: '吉尔伽美什.avif' },
+    { name: '远坂凛', element: '量子', path: '智识', rank: 5, image: '远坂凛.avif' },
 
     //  4.5
-    { name: '知更鸟•晴歌', element: '风', path: '记忆', rank: 5, image: '知更鸟•晴歌.png' },
-    { name: '砂金•戏浪', element: '量子', path: '欢愉', rank: 5, image: '砂金•戏浪.png' },
+    { name: '知更鸟•晴歌', element: '风', path: '记忆', rank: 5, image: '知更鸟•晴歌.avif' },
+    { name: '砂金•戏浪', element: '量子', path: '欢愉', rank: 5, image: '砂金•戏浪.avif' },
 
     //  4.6
-    { name: '真珠', element: '冰', path: '欢愉', rank: 5, image: '真珠.png' },
+    { name: '真珠', element: '冰', path: '欢愉', rank: 5, image: '真珠.avif' },
   ],
 };
 
