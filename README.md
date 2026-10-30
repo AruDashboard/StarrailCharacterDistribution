@@ -24,7 +24,7 @@ npm run predev
     name: '雷电将军',
     rank: 5,  # 星级
     element: '雷',
-    weapon: '长柄武器',
+    path: '长柄武器',
     image: 'characters/雷电将军.avif',
 }
 ```
