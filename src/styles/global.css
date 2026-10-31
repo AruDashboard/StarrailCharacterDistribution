@@ -352,6 +352,7 @@ body {
 #t {
   --fit: 1;
   table-layout: fixed;
+  height: 100%;
   min-height: 0;
   font-size: calc(28px * var(--fit));
   line-height: 1.4;
