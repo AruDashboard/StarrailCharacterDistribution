@@ -95,6 +95,8 @@ const CHARACTERS: CharacterTableData = {
   ],
   characters: [
     // 1.0
+    { name: '开拓者•毁灭', element: '物理', path: '毁灭', rank: 5, image: '开拓者•毁灭.avif' },
+    { name: '开拓者•存护', element: '火', path: '存护', rank: 5, image: '开拓者•存护.avif' },
     { name: '姬子', element: '火', path: '智识', rank: 5, image: '姬子.avif' },
     { name: '瓦尔特', element: '虚数', path: '虚无', rank: 5, image: '瓦尔特.avif' },
     { name: '布洛妮娅', element: '风', path: '同谐', rank: 5, image: '布洛妮娅.avif' },
@@ -159,6 +161,7 @@ const CHARACTERS: CharacterTableData = {
     { name: '砂金', element: '虚数', path: '存护', rank: 5, image: '砂金.avif' },
 
     //  2.2
+    { name: '开拓者•同谐', element: '虚数', path: '同谐', rank: 5, image: '开拓者•同谐.avif' },
     { name: '知更鸟', element: '物理', path: '同谐', rank: 5, image: '知更鸟.avif' },
     { name: '波提欧', element: '物理', path: '巡猎', rank: 5, image: '波提欧.avif' },
 
@@ -184,6 +187,7 @@ const CHARACTERS: CharacterTableData = {
     { name: '忘归人', element: '火', path: '虚无', rank: 5, image: '忘归人.avif' },
 
     //  3.0
+    { name: '开拓者•记忆', element: '冰', path: '记忆', rank: 5, image: '开拓者•记忆.avif' },
     { name: '大黑塔', element: '冰', path: '智识', rank: 5, image: '大黑塔.avif' },
     { name: '阿格莱雅', element: '雷', path: '记忆', rank: 5, image: '阿格莱雅.avif' },
 
@@ -219,6 +223,7 @@ const CHARACTERS: CharacterTableData = {
     { name: '大丽花', element: '火', path: '虚无', rank: 5, image: '大丽花.avif' },
 
     //  4.0
+    { name: '开拓者•欢愉', element: '雷', path: '欢愉', rank: 5, image: '开拓者•欢愉.avif' },
     { name: '爻光', element: '物理', path: '欢愉', rank: 5, image: '爻光.avif' },
     { name: '火花', element: '火', path: '欢愉', rank: 5, image: '火花.avif' },
 
